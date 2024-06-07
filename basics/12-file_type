@@ -1,2 +1,2 @@
 #!/bin/bash
-touch -c iamafile /home/boris/holbertonschool-shell/tmp
+touch -c iamafile /home/boris/holbertonschool-shell/tmp/iamafile
