@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir permissions/my_dir chmod 751 permissions/my_dir
+mkdir -p permissions/my_dir chmod 751 permissions/my_dir
