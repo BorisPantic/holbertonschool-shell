@@ -1,2 +1,2 @@
 #!/bin/bash
-touch hello /holberton-shell/permissions/hello
+touch hello
