@@ -1,2 +1,2 @@
 #!/bin/bash
-alias PATH=$PATH="find -mindepth 1 -type d | wc -l" | echo $PATH
+echo "$PATH" | tr ':' '\n' | grep -v '^$' | wc -l
