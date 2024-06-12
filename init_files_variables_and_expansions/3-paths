@@ -1,2 +1,2 @@
 #!/bin/bash
-alias $PATH="find -mindepth 1 -type d | wc -l" | echo $PATH 
+alias PATH=$PATH="find -mindepth 1 -type d | wc -l" | echo $PATH
